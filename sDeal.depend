@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525411495 source:c:\users\恒信科技\desktop\sdeal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
+1524664279 source:c:\users\恒信科技\desktop\sdeal\untitled1.c
+
